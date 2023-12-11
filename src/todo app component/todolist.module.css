@@ -1,0 +1,24 @@
+
+.ulitems {
+    list-style-type: none;
+    align-items: center;
+    background-color: lightcoral;
+    border-radius: 20px;
+    width: 800px;
+    height: 35px;
+    
+    
+}
+button {
+    background-color: rgb(116, 246, 157);
+    border-radius: 20px;
+    height: 25px;
+}
+.ulitems {
+    display: inline-flex;
+    justify-content: center;
+
+}
+li {
+    font-weight: bold;
+}
